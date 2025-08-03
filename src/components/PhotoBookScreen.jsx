@@ -8,6 +8,7 @@ const photos = [
   "/images/ghibli 2.png",
   "/images/ghibli 3.png",
   "/images/ghibli 4.jpg",
+  "/images/ghibli 5.jpg",
 ]
 
 export default function PhotoBookScreen({ onNext }) {
